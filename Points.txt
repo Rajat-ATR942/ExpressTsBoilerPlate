@@ -1,0 +1,11 @@
+first create a basic App class 
+call that in index and start the server 
+
+make interfaces for routing 
+
+Do the routing in Modules 
+
+ controller will be prsent in auth file of each file module like
+
+ userController -->>
+ modules/user/auth/userController
